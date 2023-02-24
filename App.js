@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
 import './App.css';
-import Formstate from './page/Formstate';
+import Formstate from './Formstate';
 
 
 function App() {
