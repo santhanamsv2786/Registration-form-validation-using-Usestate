@@ -1,0 +1,62 @@
+/* form */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.task{
+  width:500px;
+  height: 600px;
+  background-color: rgb(173, 192, 211);
+  margin: auto;
+  margin-top: 100px;
+  padding:80px;
+  border-radius: 5px;
+  /* box-shadow:5px 5px 10px 10px; */
+}
+input{
+width: 360px;
+padding: 8px ;
+}
+.click{
+  text-align: center;
+}
+.cli{
+  background-color:rgb(28, 225, 225);
+  padding: 4px 14px;
+  border-color: rgb(15, 20, 20);
+  box-shadow: 0px;
+}
+.cli:hover{
+  color:gray;
+  background-color: white;
+}
+
+/* formusestate */
+.form1{
+  width:500px;
+  height: 600px;
+  background-color: lightslategray;
+  margin: auto;
+  margin-top: 100px;
+  padding:80px;
+  border-radius: 5px;
+  /* box-shadow:5px 5px 10px 10px; */
+}
+input{
+  width: 360px;
+  padding: 8px ;
+  }
+  .click{
+    text-align: center;
+  }
+  .cli{
+    background-color:rgb(28, 225, 225);
+    padding: 4px 14px;
+    border-color: rgb(15, 20, 20);
+    box-shadow: 0px;
+  }
+  .cli:hover{
+    color:gray;
+    background-color: white;
+  }
+  
